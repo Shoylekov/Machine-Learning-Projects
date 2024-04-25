@@ -1,0 +1,1 @@
+Not finished projects! - GANs is a generative model for FashionMNIST the training of the model is too slow on my pc with local host and i trained it only for 400 epochs i recommend at least 1500 epochs to be a good model
